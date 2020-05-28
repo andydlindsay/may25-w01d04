@@ -34,9 +34,3 @@ arr.forEach(callback);
 arr.forEach(function(num) {
   console.log(num);
 });
-
-
-
-
-
-// 
